@@ -1,7 +1,9 @@
 
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/chiissuubanner.png" alt="chiisuu banner" /> 
 
-<img src="https://komarev.com/ghpvc/?username=chiissuu" alt="Profile views" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chiissuu" alt="Profile views" />
+</p>
 
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
   <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Waving%20Hand.png" width="30" height="30">
