@@ -14,7 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
 <h3>
-  ● <table>
+  ● 
+  
+  <table>
   <tr>
     <td style="vertical-align: middle; padding-right: 6px;">●</td>
     <td style="vertical-align: middle;">
@@ -25,5 +27,6 @@
     </td>
   </tr>
 </table>
+  
   Based in <strong>Madrid, Spain</strong>
 </h3>
