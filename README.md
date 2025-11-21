@@ -18,3 +18,13 @@
   <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
     Based in <strong>Madrid, Spain</strong>
 </h3>
+<h3>
+  ●   
+  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
+    Based in <strong>Madrid, Spain</strong>
+</h3>
+<h3>
+  ●   
+  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
+    Based in <strong>Madrid, Spain</strong>
+</h3>
