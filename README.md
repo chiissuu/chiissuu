@@ -17,3 +17,4 @@
   ● <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30">
   Based in <strong>Madrid, Spain</strong>
 </h4>
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30">
