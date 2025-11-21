@@ -14,7 +14,7 @@
 
 <ul>
   <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Based in <strong>Madrid, Spain</strong></li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.gif" width="20" style="vertical-align: middle; margin-right: 6px;">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong> </li>
+  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong> </li>
   <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">  -----</li>
 </ul>
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
