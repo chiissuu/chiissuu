@@ -14,6 +14,6 @@
 
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
 <h3>
-  ● <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30" style="vertical-align: -6px;">
+  ● <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30" style="vertical-align: -14px;">
   Based in <strong>Madrid, Spain</strong>
 </h3>
