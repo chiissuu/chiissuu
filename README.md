@@ -13,8 +13,8 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <ul>
-  <li>  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
-  <li>  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
-  <li>  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
+  <li>   <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
+  <li>   <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
+  <li>   <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">   Based in <strong>Madrid, Spain</strong></li>
 </ul>
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
