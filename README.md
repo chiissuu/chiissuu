@@ -10,3 +10,4 @@
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" /> 
