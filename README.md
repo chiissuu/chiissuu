@@ -13,8 +13,7 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
-<h4>
+<h3>
   ● <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30">
   Based in <strong>Madrid, Spain</strong>
-</h4>
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/392102850_EARTH_EMOJI_400px.gif" width="30" height="30">
+</h3>
