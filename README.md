@@ -12,19 +12,20 @@
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
+<p>
+  ●   
+  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
+    Based in <strong>Madrid, Spain</strong>
+</p>
+<p>
+  ●   
+  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
+    Based in <strong>Madrid, Spain</strong>
+</p>
+<p>
+  ●   
+  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
+    Based in <strong>Madrid, Spain</strong>
+</p>
+
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
-<p>
-  ●   
-  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
-    Based in <strong>Madrid, Spain</strong>
-</p>
-<p>
-  ●   
-  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
-    Based in <strong>Madrid, Spain</strong>
-</p>
-<p>
-  ●   
-  <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">
-    Based in <strong>Madrid, Spain</strong>
-</p>
