@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/chiissuubanner.png" alt="chiisuu banner" />
+
 <img src="https://komarev.com/ghpvc/?username=chiissuu" alt="Profile views" />
 
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
