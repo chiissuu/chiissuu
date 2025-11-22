@@ -17,23 +17,23 @@
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
 <!-- 4.3 · Contenedor con GIF a la izquierda y lista a la derecha -->
-<p align="left" style="display: flex; align-items: flex-start;">
-  
+<p align="left">
+
   <!-- LISTA A LA IZQUIERDA -->
   <span style="display: inline-block; vertical-align: top; margin-right: 20px;">
 
-  <p> <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/es.png" width="20">  Based in <strong>Madrid, Spain</strong></p>
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/es.png" width="20"> Based in <strong>Madrid, Spain</strong><br><br>
 
-  <p> <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4da.png" width="20">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></p>
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4da.png" width="20"> Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong><br><br>
 
-  <p> <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4bc.png" width="20">  <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</p>
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4bc.png" width="20"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles
 
   </span>
 
   <!-- GIF A LA DERECHA -->
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif"
-       width="120"
-       style="display: inline-block; vertical-align: top;">
+  <span style="display: inline-block; vertical-align: top;">
+    <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" width="120">
+  </span>
 
 </p>
 
