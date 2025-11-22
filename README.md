@@ -17,7 +17,7 @@
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
 <!-- 4.2 · About me -->
-<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;"> 🧑‍💻 About me</h1>
+## 🧑‍💻 About me
   
 <ul style="list-style: none; padding-left: 0;">
   <li> 🌍 Based in <strong>Madrid, Spain</strong></li>
