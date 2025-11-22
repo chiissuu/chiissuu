@@ -17,25 +17,24 @@
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
 <!-- 4.3 · Contenedor con GIF a la izquierda y lista a la derecha -->
-<p align="left">
+<table style="border-collapse: collapse;">
+  <tr>
+    <!-- Lista a la izquierda -->
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
+      <p> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20"> Based in <strong>Madrid, Spain</strong></p>
+      <p> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20"> Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></p>
+      <p> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</p>
+    </td>
 
-  <!-- LISTA A LA IZQUIERDA -->
-  <span style="display: inline-block; vertical-align: top; margin-right: 20px;">
+    <!-- GIF a la derecha -->
+  <td style="vertical-align: top; border: none;">
+      <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif"
+           width="120"
+           alt="about gif">
+    </td>
+  </tr>
+</table>
 
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/es.png" width="20"> Based in <strong>Madrid, Spain</strong><br><br>
-
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4da.png" width="20"> Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong><br><br>
-
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/1f4bc.png" width="20"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles
-
-  </span>
-
-  <!-- GIF A LA DERECHA -->
-  <span style="display: inline-block; vertical-align: top;">
-    <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" width="120">
-  </span>
-
-</p>
 
 
 
