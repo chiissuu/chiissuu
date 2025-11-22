@@ -16,14 +16,23 @@
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
-<!-- 4.2 · Tabla para la información principal -->
-<ul>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Based in <strong>Madrid, Spain</strong></li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong> </li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and </strong>Esports<strong> as side hustles</li>
-</ul>
+<!-- 4.3 · Contenedor con GIF a la izquierda y lista a la derecha -->
+<div style="display: flex; align-items: center; gap: 20px;">
 
-<!-- ************4.3 · Añadir un gif visual a la izquierda de la tabla de la informacion mediante divs -->
+  <!-- GIF A LA IZQUIERDA — aquí pones tu gif -->
+  <div>
+    <img src="/ruta/a/tu/gif.gif" width="120" alt="about gif">
+  </div>
+
+  <!-- LISTA A LA DERECHA -->
+  <div>
+    <ul>
+      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">  Based in <strong>Madrid, Spain</strong></li>
+      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
+      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20">  <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
+    </ul>
+  </div>
+</div>
 
 <!-- 4.4 · Herramienta de commits -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
