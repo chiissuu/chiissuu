@@ -121,4 +121,5 @@
 </a>
 
 <!-- ************6 · GIF guapo con bordes -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/imageedit_3_5880932272.gif" alt="chiisuu imageedit_3_5880932272.gif" /> 
+<br><br><br>
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/output-onlinegiftools.gif" alt="output-onlinegiftools.gif" /> 
