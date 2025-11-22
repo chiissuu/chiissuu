@@ -18,9 +18,9 @@
 
 <!-- 4.2 · About me -->
 <ul style="list-style: none; padding-left: 0;">
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20"> Based in <strong>Madrid, Spain</strong></li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20"> Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
+  <li> 🌍 Based in <strong>Madrid, Spain</strong></li>
+  <li> 📚 Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
+  <li> 💼 <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
 </ul>
 
 <!-- 4.4 · Herramienta de commits snake -->
