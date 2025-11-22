@@ -36,9 +36,9 @@
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
 🔧 Technical Skills:
 </h2>
+<br>
 
 <p align="left">
-
 <!-- java -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/226777.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="226777.png" />  
 
@@ -49,7 +49,7 @@
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/C_Logo.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="C_Logo.png" /> 
 
 <!-- sql -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Sql_data_base_with_logo.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Sql_data_base_with_logo.png" /> 
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/MySQL-Logo.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="MySQL-Logo.png" /> 
 
 <!-- aws  -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Amazon_Web_Services_Logo.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Amazon_Web_Services_Logo.svg.png" /> 
@@ -81,7 +81,7 @@
 <!-- adobe photoshop  -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Adobe_Photoshop_CC_icon.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Adobe_Photoshop_CC_icon.svg.png" /> 
 </p>
-
+<br><br><br>
 <!-- ************6 · Seccion 3 socials -->
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
@@ -89,7 +89,7 @@
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
 🌐 My Social Media:
 </h2>
-
+<br>
 <!-- linktree -->
 <a href="https://linktr.ee/chiissuu" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/linktrrdm.png" width="100" alt="linktrrdm.png">
@@ -107,7 +107,7 @@
 
 <!-- x -->
 <a href="https://x.com/chiissuu_" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/X-Logordm.png" width="100" alt="X-Logordm.png">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/pngimg.com - x_logo_PNG2.png" width="100" alt="pngimg.com - x_logo_PNG2.png">
 </a>
 
 <!-- twitch -->
