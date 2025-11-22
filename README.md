@@ -26,7 +26,6 @@
       <p> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</p>
     </td>
 
-    <!-- Columna derecha: GIF -->
   <td style="vertical-align: top; border: none;">
       <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif"
            width="120"
