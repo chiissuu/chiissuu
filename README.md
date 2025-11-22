@@ -1,5 +1,5 @@
 <!-- 1 · Banner introductorio, bordes -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/chiissuubanner.png" alt="chiisuu banner" /> 
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/imageedit_1_6894691835.gif" alt="chiisuu banner" /> 
 
 <!-- 2 · Herramienta de visitas del perfil -->
 <div style="text-align: right;">
@@ -22,9 +22,9 @@
 </h2>
 
 <ul style="list-style: none; padding-left: 0;">
-  <li> 🌍 Based in <strong>Madrid, Spain</strong></li>
-  <li> 📚 Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
-  <li> 💼 <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
+  <li> 🌍 Based in <strong>Madrid, Spain</strong>.</li>
+  <li> 📚 Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong>.</li>
+  <li> 💼 <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles.</li>
 </ul>
 
 <!-- 4.4 · Herramienta de commits snake -->
@@ -36,6 +36,51 @@
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
 🔧 Technical Skills:
 </h2>
+
+<!-- java -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/java-seeklogo.png" width="100" alt="java-seeklogo.png" />  
+
+<!-- python -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Python-logo-notext.svg.png" width="100" alt="Python-logo-notext.svg.png" /> 
+
+<!-- c -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/C_Logo.png" width="100" alt="C_Logo.png" /> 
+
+<!-- sql -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Sql_data_base_with_logo.png" width="100" alt="Sql_data_base_with_logo.png" /> 
+
+<!-- aws  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Amazon_Web_Services_Logo.svg.png" width="100" alt="Amazon_Web_Services_Logo.svg.png" /> 
+
+<!-- docker  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/4844483.png" width="100" alt="4844483.png" /> 
+
+<!-- linux  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Tux.svg.png" width="100" alt="Tux.svg.png" /> 
+
+<!-- html  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" width="100" alt="png-clipart-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-thumbnail.png" /> 
+
+<!-- css  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/vecteezy_the-css-logo-icon_66386006.png" width="100" alt="vecteezy_the-css-logo-icon_66386006.png" /> 
+
+<!-- javascript  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/vecteezy_javascript-logo-png-javascript-icon-transparent-png_27127463.png" width="100" alt="vecteezy_javascript-logo-png-javascript-icon-transparent-png_27127463.png" /> 
+
+<!-- gimp  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/The_GIMP_icon_-_gnome.svg.png" width="100" alt="The_GIMP_icon_-_gnome.svg.png" /> 
+
+<!-- gimp  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/The_GIMP_icon_-_gnome.svg.png" width="100" alt="The_GIMP_icon_-_gnome.svg.png" /> 
+
+<!-- adobe after effects  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Adobe_After_Effects_CC_icon.png" width="100" alt="Adobe_After_Effects_CC_icon.png" /> 
+
+<!-- adobe ilustrator  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/adobe-illustrator-logo-png_seeklogo-380559.png" width="100" alt="adobe-illustrator-logo-png_seeklogo-380559.png" /> 
+
+<!-- adobe photoshop  -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Adobe_Photoshop_CC_icon.svg.png" width="100" alt="Adobe_Photoshop_CC_icon.svg.png" /> 
 
 <!-- ************6 · Seccion 3 socials -->
 
