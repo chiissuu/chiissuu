@@ -17,22 +17,23 @@
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
 <!-- 4.3 · Contenedor con GIF a la izquierda y lista a la derecha -->
-<div style="display: flex; align-items: center; gap: 20px;">
+<table>
+  <tr>
+    <!-- Columna izquierda: GIF -->
+    <td style="vertical-align: top; padding-right: 20px;">
+      <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" width="120" alt="about gif">
+    </td>
 
-  <!-- GIF A LA IZQUIERDA -->
-  <div>
-    <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" width="120" alt="about gif">
-  </div>
-
-  <!-- LISTA A LA DERECHA -->
-  <div>
-    <ul>
-      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">  Based in <strong>Madrid, Spain</strong></li>
-      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
-      <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20">  <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
-    </ul>
-  </div>
-</div>
+    <!-- Columna derecha: Lista -->
+    <td style="vertical-align: top;">
+      <ul>
+        <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">  Based in <strong>Madrid, Spain</strong></li>
+        <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
+        <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20">  <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <!-- 4.4 · Herramienta de commits -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
