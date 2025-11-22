@@ -20,7 +20,7 @@
 <ul>
   <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Based in <strong>Madrid, Spain</strong></li>
   <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20" style="vertical-align: middle; margin-right: 6px;">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong> </li>
-  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and </strong>Esports<strong> as side hustles</li>
+  <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4bc.png" width="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Graphic Design</strong>, <strong>Investments</strong>, and </strong>Esports<strong> as side hustles</li>
 </ul>
 
 <!-- ************4.3 · Añadir un gif visual a la izquierda de la tabla de la informacion mediante divs -->
