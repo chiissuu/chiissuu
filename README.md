@@ -25,7 +25,7 @@
     </td>
 
     <!-- Columna derecha: Lista -->
-    <td style="vertical-align: top;">
+  <td style="vertical-align: top;">
       <ul>
         <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/es.png" width="20">  Based in <strong>Madrid, Spain</strong></li>
         <li> <img src="https://github.com/chiissuu/chiissuu/raw/main/assets/1f4da.png" width="20">  Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong></li>
