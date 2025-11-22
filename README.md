@@ -19,9 +19,9 @@
 <!-- 4.3 · Contenedor con GIF a la izquierda y lista a la derecha -->
 <div style="display: flex; align-items: center; gap: 20px;">
 
-  <!-- GIF A LA IZQUIERDA — aquí pones tu gif -->
+  <!-- GIF A LA IZQUIERDA -->
   <div>
-    <img src="/ruta/a/tu/gif.gif" width="120" alt="about gif">
+    <img src="/ruta/a/tu/373964755-754f7f48-57b4-4b8f-9054-b21ef7803698.gif" width="120" alt="about gif">
   </div>
 
   <!-- LISTA A LA DERECHA -->
