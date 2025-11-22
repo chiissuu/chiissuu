@@ -17,9 +17,9 @@
 <!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
 <!-- 4.2 · About me -->
-<h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
+<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
   🧑‍💻 About Me:
-</h1>
+</h2>
 
 <ul style="list-style: none; padding-left: 0;">
   <li> 🌍 Based in <strong>Madrid, Spain</strong></li>
@@ -46,33 +46,33 @@
 </h2>
 
 <!-- linktree -->
-<a href="https://linktr.ee/chiissuu">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/linktrrdm.png" width="600" alt="**linktrrdm.png**">
+<a href="https://linktr.ee/chiissuu" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/linktrrdm.png" width="100" alt="linktrrdm.png">
 </a>
 
 <!-- ig -->
-<a href="https://www.instagram.com/chiissuu/">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/igrdm.png" width="600" alt="**igrdm.png**">
+<a href="https://www.instagram.com/chiissuu/" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/igrdm.png" width="100" alt="igrdm.png">
 </a>
 
 <!-- tt -->
-<a href="https://www.tiktok.com/@chiissuu">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/ttrdm.png" width="600" alt="**ttrdm.png**">
+<a href="https://www.tiktok.com/@chiissuu" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/ttrdm.png" width="100" alt="ttrdm.png">
 </a>
 
 <!-- x -->
-<a href="https://x.com/chiissuu_">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/X-Logordm.png" width="600" alt="**X-Logordm.png**">
+<a href="https://x.com/chiissuu_" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/X-Logordm.png" width="100" alt="X-Logordm.png">
 </a>
 
 <!-- twitch -->
-<a href="https://www.twitch.tv/chiissuu/about">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/twitchrdm.png" width="600" alt="**twitchrdm.png**">
+<a href="https://www.twitch.tv/chiissuu/about" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/twitchrdm.png" width="100" alt="twitchrdm.png">
 </a>
 
 <!-- spotify -->
-<a href="https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Spotify_logo_without_text.svg.png" width="600" alt="**Spotify_logo_without_text.svg.png**">
+<a href="https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in" target="_blank" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Spotify_logo_without_text.svg.png" width="100" alt="Spotify_logo_without_text.svg.png">
 </a>
 
 <!-- ************6 · GIF guapo con bordes -->
