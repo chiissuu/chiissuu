@@ -12,19 +12,71 @@
   Hi, I'm chiissuu!
 </h1>
 
-<!-- 4.1 · Borde separatorio a la primera seccion -->
+<!-- 4.1 · Section separator -->
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
-<!-- ************4.2 · Añadir un About me como en el perfil 2 -->
 
-<!-- 4.2 · About me -->
+<!-- 4.2 · About Me -->
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
   🧑‍💻 About Me:
 </h2>
 
-<ul style="list-style: none; padding-left: 0;">
-  <li> 🌍 Based in <strong>Madrid, Spain</strong>.</li>
-  <li> 📚 Studying <strong>Software Engineering</strong>, specialized in <strong>Data Science</strong>.</li>
-  <li> 💼 <strong>Graphic Design</strong>, <strong>Investments</strong>, and <strong>Esports</strong> as side hustles.</li>
+<p>
+  I am a 19-year-old <strong>Software Engineering</strong> student from Spain, currently in the early stages of my academic and professional journey. I am a <strong>native Spanish speaker</strong>, with a <strong>C1 level in English</strong> and an <strong>A2 level in German</strong>.
+</p>
+
+<p>
+  During my first two years of university, I have gained hands-on experience in <strong>full-stack development</strong>, working with different technologies across frontend, backend, databases, and software architecture. You can explore my technical stack in the <a href="#skills">Skills section</a>.
+</p>
+
+<p>
+  Over the next two years, my goal is to move deeper into <strong>Data Science</strong>, using my <strong>Software Engineering</strong> background to work with data, build smarter systems, and understand how information can be transformed into real value.
+</p>
+
+<!-- 4.3 · Beyond Software Engineering -->
+<h3 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
+  🚀 Beyond Software Engineering:
+</h3>
+
+<p>
+  Outside of engineering, I have developed a strong personal interest in <strong>investing</strong> and <strong>financial markets</strong>, mainly focused on personal portfolio growth and long-term learning. This has helped me become more analytical, patient, and aware of risk when making decisions.
+</p>
+
+<p>
+  I also have experience in <strong>graphic design</strong>, creating visual assets such as banners, music covers, video covers, thumbnails, and digital content for personal projects, group initiatives, and public services. You can explore some of my design work here: <a href="https://drive.google.com/drive/folders/1e5ltPjqbFB5bYeWJhEbrtPfGYHE3329-?usp=sharing">Graphic Design Archive</a>.
+</p>
+
+<!-- 4.4 · Personal Background -->
+<h3 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
+  🧠 Personal Background:
+</h3>
+
+<p>
+  On a personal level, I consider myself <strong>competitive</strong>, <strong>disciplined</strong>, and <strong>detail-oriented</strong>. I care about doing things properly, but I also try to stay humble, empathetic, and open to learning from the people around me.
+</p>
+
+<p>
+  A big part of this mindset comes from my experience <strong>competing in esports</strong> titles such as Overwatch, Counter-Strike, <a href="https://fortnitetracker.com/profile/kbm/Rayo%20Vallecano%209/events?region=GLOBAL&sortBy=placement">Fornite(PC)</a>, 
+<a href="https://fortnitetracker.com/profile/gamepad/Rayo%20Vallecano%209/events?region=GLOBAL&sortBy=pr">Fornite(Console)</a>, Clash Royale, and others. Competitive gaming taught me the importance of discipline, consistency, emotional control, teamwork, and adaptability under pressure.
+</p>
+<p>
+  It also helped me understand how to work with different personalities, communicate effectively, and contribute to a <strong>team environment</strong> where everyone performs at their best.
+</p>
+
+<p>
+  Beyond technology, I am also interested in <strong>fashion, music, social media, digital trends, and visual culture</strong>. These interests influence the way I approach design, branding, creativity, and user experience.
+</p>
+
+<!-- 4.5 · Current Focus -->
+<h3 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
+  🎯 Current Focus:
+</h3>
+
+<ul>
+  <li><strong>Full-stack software development</strong>.</li>
+  <li><strong>Data Science</strong> and machine learning.</li>
+  <li><strong>Personal projects</strong> and portfolio growth.</li>
+  <li><strong>Graphic design</strong> and visual identity.</li>
+  <li>Continuous learning, discipline, and <strong>self-improvement</strong>.</li>
 </ul>
 
 <!-- 4.4 · Herramienta de commits snake -->
