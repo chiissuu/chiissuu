@@ -180,7 +180,7 @@
 
 <img 
   src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/social-banner.png" 
-  alt="Technical Skills Banner" 
+  alt="Technical Skills Banner"  
   width="100%" 
   style="border-radius: 22px;" 
 />
