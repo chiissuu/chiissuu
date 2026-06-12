@@ -20,7 +20,7 @@
 </h1>
 
 <img 
-  src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/aboutme-banner.png" 
+  src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/aboutmeban.jpg" 
   alt="Technical Skills Banner"  
   width="100%" 
   style="border-radius: 22px;" 
