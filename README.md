@@ -1,10 +1,14 @@
 <!-- 1 · Banner introductorio, bordes -->
 <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/imageedit_1_6894691835.gif" alt="chiisuu banner" /> 
 
-<!-- 2 · Herramienta de visitas del perfil -->
-<div style="text-align: right;">
-  <img src="https://komarev.com/ghpvc/?username=chiissuu" alt="Profile views" />
-</div>
+<!-- 2 · Profile badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=chiissuu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/chiissuu?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/chiissuu?label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science-0e75b6" alt="Focus Data Science" />
+  <img src="https://img.shields.io/badge/Location-Madrid,%20Spain-0e75b6" alt="Location Madrid Spain" />
+</p>
 
 <!-- 3 · Greetings -->
 <h1 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
