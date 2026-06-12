@@ -207,3 +207,6 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chiissuu)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/chiissuu_)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/chiissuu)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/chiissuu)
+[![Letterboxd](https://img.shields.io/badge/Letterboxd-202830?logo=letterboxd&logoColor=white)](https://letterboxd.com/chiissuu/)
+[![IMDb](https://img.shields.io/badge/IMDb-F5C518?logo=imdb&logoColor=black)](https://www.imdb.com/es-es/user/p.v3jfxiwnvlt54rmh3hvuuenrye?ref_=ext_shr_lnk)
