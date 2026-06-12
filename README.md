@@ -68,7 +68,7 @@
 </p>
 
 <p>
-  A big part of this mindset comes from my experience <strong>competing in esports</strong> titles such as Overwatch, Counter-Strike, <a href="https://fortnitetracker.com/profile/kbm/Rayo%20Vallecano%209/events?region=GLOBAL&sortBy=placement">Fornite(PC)</a>, <a href="https://github.com/chiissuu/chiissuu/blob/main/assets/achievements/merget1s4.jpg">Clash Royale</a>, and others. Competitive gaming taught me the importance of discipline, consistency, emotional control, teamwork, and adaptability under pressure.
+  A big part of this mindset comes from my experience <strong>competing in esports</strong> titles such as Overwatch, Counter-Strike, <a href="https://fortnitetracker.com/profile/kbm/Rayo%20Vallecano%209/events?region=GLOBAL&sortBy=placement">Fornite(PC)</a>, <a href="https://github.com/chiissuu/chiissuu/blob/main/assets/merget1s4.jpg">Clash Royale</a>, and others. Competitive gaming taught me the importance of discipline, consistency, emotional control, teamwork, and adaptability under pressure.
 </p>
 <p>
   It also helped me understand how to work with different personalities, communicate effectively, and contribute to a <strong>team environment</strong> where everyone performs at their best.
