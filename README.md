@@ -19,6 +19,13 @@
   Hi, I'm chiissuu!
 </h1>
 
+<img 
+  src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/aboutme-banner.png" 
+  alt="Technical Skills Banner"  
+  width="100%" 
+  style="border-radius: 22px;" 
+/>
+
 <!-- 4.1 · Section separator -->
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
