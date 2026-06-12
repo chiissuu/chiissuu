@@ -5,9 +5,12 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=chiissuu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/chiissuu?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/chiissuu?label=Stars&style=flat&color=0e75b6" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science-0e75b6" alt="Focus Data Science" />
-  <img src="https://img.shields.io/badge/Location-Madrid,%20Spain-0e75b6" alt="Location Madrid Spain" />
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-0e75b6" alt="Software Engineering Student" />
+  <img src="https://img.shields.io/badge/Data%20Science-Focus-0e75b6" alt="Data Science Focus" />
+  <img src="https://img.shields.io/badge/Graphic%20Design-Creative-0e75b6" alt="Graphic Design" />
+  <img src="https://img.shields.io/badge/Madrid-Spain-0e75b6" alt="Madrid Spain" />
+  <img src="https://img.shields.io/badge/C1-English-0e75b6" alt="C1 English" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0e75b6" alt="Open to collaboration" />
 </p>
 
 <!-- 3 · Greetings -->
