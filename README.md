@@ -80,6 +80,8 @@
 </ul>
 
 <!-- 5 · Seccion 2 Skills -->
+<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/skills-banner.png" alt="Technical Skills banner" />
+
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
 <h2 id="technical-skills" style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
