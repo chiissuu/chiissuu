@@ -38,11 +38,11 @@
 </p>
 
 <p>
-  During my first two years of university, I have gained hands-on experience in <strong>full-stack development</strong>, working with different technologies across frontend, backend, databases, and software architecture. You can explore my technical stack in the <a href="#technical-skills">Skills section</a>.
+During my first two years of university, I have been working on <strong>full-stack development</strong>, using different technologies across frontend, backend, databases, and software architecture.
 </p>
 
 <p>
-  Over the next two years, my goal is to move deeper into <strong>Data Science</strong>, using my <strong>Software Engineering</strong> background to work with data, build smarter systems, and understand how information can be transformed into real value.
+Over the next two years, my goal is to move deeper into <strong>Data Science</strong>, using my <strong>Software Engineering</strong> background to work with data, build smarter systems, and understand how information can be transformed into real value.
 </p>
 
 <!-- 4.3 · Beyond Software Engineering -->
@@ -51,7 +51,7 @@
 </h3>
 
 <p>
-  Outside of engineering, I have developed a strong personal interest in <strong>investing</strong> and <strong>financial markets</strong>, mainly focused on personal portfolio growth and long-term learning. This has helped me become more analytical, patient, and aware of risk when making decisions.
+  Outside of engineering, I have developed a strong personal interest in <strong>investing</strong>, <strong>financial markets</strong>, and <strong>business analysis</strong>, mainly focused on personal portfolio growth and long-term learning. I have also studied concepts such as business models, value creation, SWOT analysis, customer segmentation, value propositions, and marketing strategy. This has helped me become more analytical and aware of risk when making decisions.
 </p>
 
 <p>
