@@ -169,13 +169,13 @@
 
 <br>
 
-[![Linktree](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=black)]((https://linktr.ee/chiissuu))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]((https://github.com/chiissuu))
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=black)](https://linktr.ee/chiissuu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/chiissuu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](LINK_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jesusleonromero233@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]((https://www.instagram.com/chiissuu/))
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)]((https://www.youtube.com/@chiissuu))
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)]((https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/chiissuu/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@chiissuu)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chiissuu)
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/chiissuu_)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)]((https://www.twitch.tv/chiissuu))
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)](https://www.twitch.tv/chiissuu)
