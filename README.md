@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Graphic%20Design-Creative-0e75b6" alt="Graphic Design" />
   <img src="https://img.shields.io/badge/Madrid-Spain-0e75b6" alt="Madrid Spain" />
   <img src="https://img.shields.io/badge/C1-English-0e75b6" alt="C1 English" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-0e75b6" alt="Open to collaboration" />
 </p>
 
 <!-- 3 · Greetings -->
