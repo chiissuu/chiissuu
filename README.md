@@ -87,9 +87,15 @@
 </ul>
 
 <!-- 5 · Seccion 2 Skills -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/skills-banner.png" alt="Technical Skills banner" />
-
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
+
+<img 
+  src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/skills-banner.png" 
+  alt="Technical Skills Banner" 
+  width="100%" 
+  style="border-radius: 22px;" 
+/>
+
 
 <h2 id="technical-skills" style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
 🔧 Technical Skills:
@@ -171,6 +177,13 @@
 <!-- ************6 · Seccion 3 socials -->
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
+
+<img 
+  src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/social-banner.png" 
+  alt="Technical Skills Banner" 
+  width="100%" 
+  style="border-radius: 22px;" 
+/>
 
 <h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 12px;">
   🌐 Social Media & Links:
