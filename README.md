@@ -21,11 +21,11 @@
 </h2>
 
 <p>
-  I am a 19-year-old <strong>Software Engineering</strong> student from Spain, currently in the early stages of my academic and professional journey. I am a <strong>native Spanish speaker</strong>, with a <strong>C1 level in English</strong> and an <strong>A2 level in German</strong>.
+  I am a 19-year-old <strong>Software Engineering</strong> student from Spain, currently studying at <a href="https://u-tad.com/"><strong>U-TAD</strong></a> in Madrid, Spain. I am currently in the early stages of my academic and professional journey. I am a <strong>native Spanish speaker</strong>, with a <strong>C1 level in English</strong> and an <strong>A2 level in German</strong>.
 </p>
 
 <p>
-  During my first two years of university, I have gained hands-on experience in <strong>full-stack development</strong>, working with different technologies across frontend, backend, databases, and software architecture. You can explore my technical stack in the <a href="#skills">Skills section</a>.
+  During my first two years of university, I have gained hands-on experience in <strong>full-stack development</strong>, working with different technologies across frontend, backend, databases, and software architecture. You can explore my technical stack in the <a href="#technical-skills">Skills section</a>.
 </p>
 
 <p>
@@ -63,7 +63,7 @@
 </p>
 
 <p>
-  Beyond technology, I am also interested in <strong>fashion, music, social media, digital trends, and visual culture</strong>. These interests influence the way I approach design, branding, creativity, and user experience.
+  Beyond technology, I am also interested in <strong>fashion, music, cinema, film criticism, social media, digital trends, and visual culture</strong>. These interests influence the way I approach design, branding, creativity, storytelling, and user experience.
 </p>
 
 <!-- 4.5 · Current Focus -->
@@ -79,99 +79,103 @@
   <li>Continuous learning, discipline, and <strong>self-improvement</strong>.</li>
 </ul>
 
-<!-- 4.4 · Herramienta de commits snake -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/github-contribution-grid-snake-dark.svg" alt="fgridnsnake" width="2048" height="684" /> 
-
-<!-- ************5 · Seccion 2 skills -->
+<!-- 5 · Seccion 2 Skills -->
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
-<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
+<h2 id="technical-skills" style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
 🔧 Technical Skills:
 </h2>
-<br>
 
-<p align="left">
-<!-- java -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/226777.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="226777.png" />  
+<!-- 5.1 · Programming Languages -->
+<h3 style="margin-top: 10px; margin-bottom: 8px;">💻 Programming Languages</h3>
 
-<!-- python -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Python-logo-notext.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Python-logo-notext.svg.png" /> 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=PHP&logoColor=white)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white)](#)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
 
-<!-- c -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/C_Logo.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="C_Logo.png" /> 
+<!-- 5.2 · Databases -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">🗄️ Databases</h3>
 
-<!-- sql -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/MySQL-Logo.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="MySQL-Logo.png" /> 
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 
-<!-- aws  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Amazon_Web_Services_Logo.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Amazon_Web_Services_Logo.svg.png" /> 
+<!-- 5.3 · Web Development -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">🌐 Web Development</h3>
 
-<!-- docker  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/4844483.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="4844483.png" /> 
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
-<!-- linux  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Tux.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Tux.svg.png" /> 
+<!-- 5.4 · Cloud, DevOps & Systems -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">☁️ Cloud, DevOps & Systems</h3>
 
-<!-- html  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/pngegg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="pngegg.png" /> 
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
-<!-- css  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/vecteezy_the-css-logo-icon_66386006.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="vecteezy_the-css-logo-icon_66386006.png" /> 
+<!-- 5.5 · Data Science & AI Tools -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">📊 Data Science & AI Tools</h3>
 
-<!-- javascript  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/javascriptdnr.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="javascriptdnr.png" /> 
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
+[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
 
-<!-- gimp  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/The_GIMP_icon_-_gnome.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="The_GIMP_icon_-_gnome.svg.png" /> 
+<!-- 5.6 · Design Tools -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">🎨 Design Tools</h3>
 
-<!-- adobe after effects  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Adobe_After_Effects_CC_icon.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Adobe_After_Effects_CC_icon.png" /> 
+[![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](#)
+[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
+[![Photopea](https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white)](#)
+[![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)](#)
 
-<!-- adobe ilustrator  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/adobe-illustrator-logo-png_seeklogo-380559.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="adobe-illustrator-logo-png_seeklogo-380559.png" /> 
+<!-- 5.7 · Hardware & Low-Level Tools -->
+<h3 style="margin-top: 22px; margin-bottom: 8px;">🔌 Hardware & Low-Level Tools</h3>
 
-<!-- adobe photoshop  -->
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Adobe_Photoshop_CC_icon.svg.png" width="80" height="80" style="object-fit: contain; border-radius: 12px; margin: 4px;" alt="Adobe_Photoshop_CC_icon.svg.png" /> 
-</p>
-<br><br><br>
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)](#)
+[![Logisim](https://img.shields.io/badge/Logisim-4B5563?logoColor=white)](#)
+[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)
+
 <!-- ************6 · Seccion 3 socials -->
 
 <hr style="border: 2px solid #e1e4e8; margin: 20px 0;">
 
-<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 0;">
-🌐 My Social Media:
+<h2 style="border-bottom: none; padding-bottom: 0; margin-bottom: 12px;">
+  🌐 Social Media & Links:
 </h2>
+
 <br>
-<!-- linktree -->
-<a href="https://linktr.ee/chiissuu" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/linktrrdm.png" width="100" alt="linktrrdm.png">
-</a>
 
-<!-- ig -->
-<a href="https://www.instagram.com/chiissuu/" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/igrdm.png" width="100" alt="igrdm.png">
-</a>
-
-<!-- tt -->
-<a href="https://www.tiktok.com/@chiissuu" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/ttrdm.png" width="100" alt="ttrdm.png">
-</a>
-
-<!-- x -->
-<a href="https://x.com/chiissuu_" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/pngimg.com - x_logo_PNG2.png" width="100" alt="pngimg.com - x_logo_PNG2.png">
-</a>
-
-<!-- twitch -->
-<a href="https://www.twitch.tv/chiissuu/about" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/twitchrdm.png" width="100" alt="twitchrdm.png">
-</a>
-
-<!-- spotify -->
-<a href="https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in" target="_blank" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/Spotify_logo_without_text.svg.png" width="100" alt="Spotify_logo_without_text.svg.png">
-</a>
-
-<!-- ************6 · GIF guapo con bordes -->
-<br><br><br>
-<img src="https://raw.githubusercontent.com/chiissuu/chiissuu/main/assets/output-onlinegiftools.gif" alt="output-onlinegiftools.gif" /> 
+[![Linktree](https://img.shields.io/badge/Linktree-43E55E?logo=linktree&logoColor=black)]((https://linktr.ee/chiissuu))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)]((https://github.com/chiissuu))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](LINK_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:jesusleonromero233@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)]((https://www.instagram.com/chiissuu/))
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)]((https://www.youtube.com/@chiissuu))
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)]((https://open.spotify.com/user/d6snwkdkhgm7qgfgtwfnjp0in))
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@chiissuu)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/chiissuu_)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white)]((https://www.twitch.tv/chiissuu))
