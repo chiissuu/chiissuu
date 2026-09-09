@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Data%20Science-Focus-0e75b6" alt="Data Science Focus" />
   <img src="https://img.shields.io/badge/Graphic%20Design-Creative-0e75b6" alt="Graphic Design" />
   <img src="https://img.shields.io/badge/Madrid-Spain-0e75b6" alt="Madrid Spain" />
-  <img src="https://img.shields.io/badge/C1-English-0e75b6" alt="C1 English" />
 </p>
 
 <!-- 3 · Greetings -->
